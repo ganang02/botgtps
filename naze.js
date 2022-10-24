@@ -10,8 +10,8 @@ Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
-Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Base : Gannn
+Recode : Gannn
 
 **/
 
