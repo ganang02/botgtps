@@ -5,15 +5,15 @@ Yg Mau Sv Nomerku?
 wa.me/6285875158363
 
 Minimal Kasih Cr kalo mau reupload😡
-Create By Dika Ardnt.
-Recode By Naze & ( Nama Lu )
+Create By Gannn
+Recode By Gannn
 
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
-Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Base : Gannn
+Recode : Gannn
 
 **/
 
@@ -31,12 +31,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['62881010342470']
+global.ownernomer = "62881010342470"
+global.premium = ['62881010342470']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.author = 'GPSG BOT'
+global.sessionName = 'Gann'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
@@ -66,9 +66,9 @@ global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.botname = 'GPSG BOT'
+global.akulaku = 'Bot By Gannn'
+global.ytname = 'YT -'
 
 
 let file = require.resolve(__filename)
